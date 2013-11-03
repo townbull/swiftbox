@@ -1,0 +1,12 @@
+Final project team (Bo Tang, Xin Jin, Zhenxin Zhan)
+
+Package required:
+=================
+  python-swfitclient @ https://github.com/openstack/python-swiftclient
+
+How to run?
+=============
+  Simply run:
+   python finalver2.py
+
+ 
