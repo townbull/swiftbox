@@ -22,7 +22,6 @@ class Global:
     conn = None
     testmode = None #1
 
-
 def connfailcb(msg="bye"):
     """call back for connection failed.
   """
